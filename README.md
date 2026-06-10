@@ -10,7 +10,7 @@ cp .env.example .env
 
 Redigera `.env` med arbetsgivarens och den anställdes uppgifter.
 
-## Usage
+## Användning
 
 Enda parametern är redovisningsperioden (YYYYMM):
 
